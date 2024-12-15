@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "1f9ecdda-717a-48c9-8779-850a27b078f4",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1731701476465"
+        }
+      },
+      "favorite": {
+        "name": "Actividad 1 - Diseño y operaciones CRUD en Bases de datos NoSQL"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://127.0.0.1:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
